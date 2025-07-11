@@ -1,5 +1,4 @@
-#my name in byeonatt.
-20235274	Ahn Sumin
+#AhnSumin 20235274
 
 kookmin Univ. SWP.
 
